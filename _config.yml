@@ -1,4 +1,4 @@
-title: Rito | Blog # 站点标题
+title: 夜雨Blog # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   <a href="mailto:rito@kurorito.com">
     <i class="fa-solid fa-envelope"></i>
@@ -10,7 +10,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
     <i class="fa-brands fa-bilibili"></i>
   </a>
   <br/>
-  *邮箱内信息通常于48小时内进行处理，无论是否进行回复。
+  *邮箱内信息通常于48小时内进行处理。
   <br/>
   <br/>
   “遗忘过去，污染未来。”
